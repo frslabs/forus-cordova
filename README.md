@@ -75,7 +75,7 @@ This SDK is used to take good selfie with liveness checks Eye Blink and Smile De
 
 
 
-## IOS FRSForusSDK - Cordova Plugin
+## IOS FORUS - Cordova Plugin
 
 ### I. Introduction
 
