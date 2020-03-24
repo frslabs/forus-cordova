@@ -129,13 +129,13 @@ Step 05:
 - Passing the input parameters from index.js to native code
     ```Javascript
         var inputParamsDict = {};
-        inputParamsDict['SHOW_INSTRUCTION'] = 'STATUS_NO';
-        inputParamsDict['CAMERA_MODE'] = 'CAMERA_FRONT';
-        inputParamsDict['SECURITY_LEVEL'] = 'SECURITY_MODE3';           //face and smile detection
-  //        inputParamsDict['SECURITY_LEVEL'] = 'SECURITY_MODE1';       //face detection
-  //        inputParamsDict['SECURITY_LEVEL'] = 'SECURITY_MODE2';       //face and eye blink detection
-  //        inputParamsDict['SECURITY_LEVEL'] = 'SECURITY_MODE4';       //face and randomaly selected eyeblink and smile detection.
-        inputParamsDict['LICENCE_KEY'] = 'your licence key';
+        inputParamsDict['ios_show_instruction'] = 'STATUS_NO';
+        inputParamsDict['ios_camera_mode'] = 'CAMERA_FRONT';
+        inputParamsDict['ios_security_level'] = 'SECURITY_MODE3';           //face and smile detection
+  //        inputParamsDict['ios_security_level''] = 'SECURITY_MODE1';       //face detection
+  //        inputParamsDict['ios_security_level'] = 'SECURITY_MODE2';       //face and eye blink detection
+  //        inputParamsDict['ios_security_level'] = 'SECURITY_MODE4';       //face and randomaly selected eyeblink and smile     detection.
+        inputParamsDict['ios_licence_key'] = 'your licence key';
     ```
 
 - Create callback methods
