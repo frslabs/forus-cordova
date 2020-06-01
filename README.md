@@ -32,8 +32,7 @@ machine octus-ios.repo.frslabs.space
 login <YOUR_USERNAME>
 password <YOUR_PASSOWRD>
 ```
-3. In terminal enter below command to install the pod
-pod install or pod update.
+3. In terminal enter below command to install the pod.
     
     
  - After adding the plugin you need to install the sdk through pod 
