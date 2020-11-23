@@ -114,7 +114,7 @@ password <YOUR_PASSOWRD>
 - Invoke the IOS plugin 
 
   ```Javascript
-        FORUS.invokeForusSDK(inputParamsDict,successCallback,errorCallback);
+  FORUS.invokeForusSDK(inputParamsDict,successCallback,errorCallback);
   ```
 
 - Android Sample success reponse
