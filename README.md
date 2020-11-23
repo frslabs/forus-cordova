@@ -45,8 +45,7 @@ password <YOUR_PASSOWRD>
         source 'https://github.com/CocoaPods/Specs.git'
         platform :ios, '12.0'   //If changes are needed to platform ios version, you can change it here
         use_frameworks!
-        target 'forus' do
-            project 'forus.xcodeproj'
+        target '<Your Target Name>' do
             pod 'Forus', '~> 1.0.1'
         end`
     
