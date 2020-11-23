@@ -133,7 +133,7 @@ password <YOUR_PASSOWRD>
 
 - IOS Sample success reponse    
     ```Javascript
-        "faceImagePath" =  "/var/mobile/Containers/Data/Application/43B20C4E-5087-4881-95B8-05FFD3DC6F21/Documents/faceImage.png"
+    "faceImagePath" =  "/var/mobile/Containers/Data/Application/43B20C4E-5087-4881-95B8-05FFD3DC6F21/Documents/faceImage.png"
     ```
 
 - IOS Sample failure response
